@@ -13,7 +13,7 @@ I approach data with one principle — validate before you visualize.
 
 With a Commerce foundation and a Master’s in Computer Applications, I combine business understanding with technical execution. My focus lies in data cleaning, transformation, validation, and analytical reporting that supports effective decision-making.
 
-I prioritize structured workflows, data integrity, and actionable insights over surface-level dashboards.
+I prioritize structured workflows, data integrity, and actionable insights.
 
 ---
 
